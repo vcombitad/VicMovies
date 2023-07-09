@@ -1,0 +1,20 @@
+{
+  "name": "vicmovies",
+  "version": "1.0.0",
+  "description": "Una app especializada en peliculas y series, consumiendo una API de themoviedb.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vcombitad/vicMovies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vcombitad/vicMovies/issues"
+  },
+  "homepage": "https://github.com/vcombitad/vicMovies#readme"
+}
